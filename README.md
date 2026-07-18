@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Doğan Can
-- 👀 I’m interested in Js, Vue, Node.js, Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Js, Java
 - 📫 How to reach me: karatas.can.dogan@gmail.com
 
 <!---
