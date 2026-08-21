@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Doğan Can
-- 👀 I’m interested in Js, Java
+- 👀 I’m interested in Java, TypeScript, Js
+- Learning AI, C, Assembly, Python, Go
 - 📫 How to reach me: karatas.can.dogan@gmail.com
 
 <!---
