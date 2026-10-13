@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Doğan Can
-- 👀 I’m interested in Java, TypeScript, Js
-- Learning AI, C, Assembly, Python, Go
+- 👀 Java/Spring Boot & Node.js backend engineer, banking background
 - 📫 How to reach me: karatas.can.dogan@gmail.com
 
 <!---
